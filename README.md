@@ -1,1 +1,1 @@
-# Collaborative_Calculations-_MPI
+# Collaborative_Calculations_MPI
